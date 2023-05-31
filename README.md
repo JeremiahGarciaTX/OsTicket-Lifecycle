@@ -44,7 +44,7 @@ As Admin or Agent in osTicket, locate the ticket queue
 <img src="https://i.imgur.com/MWjjuIZ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
-Assign Ticket to the proper team or yourself and update the SLA
+Open Ticket and assign to the proper team or yourself and update the SLA
 <p>
 <img src="https://i.imgur.com/9I8Qzk7.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
@@ -59,28 +59,3 @@ refresh ticket query to verify no new tickets are in queue
 <img src="https://i.imgur.com/ssmapca.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
-
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
