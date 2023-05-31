@@ -5,7 +5,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle </h1>
-This section will show creating of a ticket from user standpoint and resolution of tickets from within the open-source help desk ticketing system osTicket from the view of an agent or administrator.<br />
+This section will show creating of a ticket from user standpoint and resolution of a ticket within the open-source help desk ticketing system osTicket from the view of an agent or administrator.<br />
 
 
 <h2>Environments and Technologies Used</h2>
