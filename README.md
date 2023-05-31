@@ -66,6 +66,12 @@ reply to ticket and close or resolve the ticket
 <img src="https://i.imgur.com/SeJNpAH.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
+refresh ticket query to verify no new tickets are in queue
+<p>
+<img src="https://i.imgur.com/ssmapca.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
