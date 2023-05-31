@@ -5,7 +5,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This section shows the creation of SLA's, ticket intake, and resolution within the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -20,10 +20,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
+- SLA's
 - Intake
 - Assignment and Communication
 - Working the Issue
 - Resolution
+
+<h2>SLA's</h2>
 
 <h2>Lifecycle Stages</h2>
 
