@@ -27,7 +27,7 @@ This section will show creation of SLA's, ticket intake, and resolution of ticke
 - Resolution
 
 <h2>SLA's</h2>
-configure SLA in the Admin Panel
+Create SLA's in the Admin Panel
 EX. 
 Sev-A (1 hour, 24/7)
 Sev-B (4 hours, 24/7)
@@ -39,6 +39,13 @@ Sev-C (8 hours, business hours)
 
 
 <h2>Lifecycle Stages</h2>
+
+After registering as a new user, sign in to your account to create a new ticket
+
+<p>
+<img src="https://i.imgur.com/FFWG30R.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
