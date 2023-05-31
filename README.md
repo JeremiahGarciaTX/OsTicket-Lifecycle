@@ -4,8 +4,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This section shows the creation of SLA's, ticket intake, and resolution within the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Ticket Lifecycle </h1>
+This section will show creation of SLA's, ticket intake, and resolution of tickets within the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -27,6 +27,16 @@ This section shows the creation of SLA's, ticket intake, and resolution within t
 - Resolution
 
 <h2>SLA's</h2>
+configure SLA in the Admin Panel
+EX. 
+Sev-A (1 hour, 24/7)
+Sev-B (4 hours, 24/7)
+Sev-C (8 hours, business hours)
+<p>
+<img src="https://i.imgur.com/CtdXJ9z.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+
+
 
 <h2>Lifecycle Stages</h2>
 
