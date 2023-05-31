@@ -61,6 +61,11 @@ Assign Ticket to the proper team or yourself and update the SLA
 <img src="https://i.imgur.com/9I8Qzk7.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
+reply to ticket and close or resolve the ticket
+<p>
+<img src="https://i.imgur.com/SeJNpAH.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
