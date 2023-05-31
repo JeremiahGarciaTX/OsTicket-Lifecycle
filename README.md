@@ -4,7 +4,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle </h1>
-This section briefly shows creation of a ticket from user standpoint and resolution of a ticket within the open-source help desk ticketing system osTicket from the view of an agent or administrator.<br />
+After a fresh install of the open-source help desk ticketing system osTicket using Microsoft Azure services like Virtual Machine, this section briefly shows creation of a ticket from user standpoint and resolution of a ticket from the view of an agent or administrator.<br />
 
 
 <h2>Environments and Technologies Used</h2>
