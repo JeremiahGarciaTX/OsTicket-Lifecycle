@@ -5,7 +5,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle </h1>
-This section will show creation of SLA's, ticket intake, and resolution of tickets within the open-source help desk ticketing system osTicket.<br />
+This section will show creating of a ticket from user standpoint and resolution of tickets from within the open-source help desk ticketing system osTicket from the view of an agent or administrator.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -20,22 +20,10 @@ This section will show creation of SLA's, ticket intake, and resolution of ticke
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- SLA's
 - Intake
 - Assignment and Communication
 - Working the Issue
 - Resolution
-
-<h2>SLA's</h2>
-Create SLA's in the Admin Panel
-EX. 
-Sev-A (1 hour, 24/7)
-Sev-B (4 hours, 24/7)
-Sev-C (8 hours, business hours)
-<p>
-<img src="https://i.imgur.com/CtdXJ9z.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-</p>
-
 
 
 <h2>Lifecycle Stages</h2>
